@@ -7,5 +7,3 @@ The [8-queens puzzle](https://en.wikipedia.org/wiki/Eight_queens_puzzle) is a co
 
 #### Note:
 Some of the code in this notebook as to not crash with the mandatory assignment, but can be filled out as an exercise.
-
-Firstly we define the 'magic' function to plot directly in the Notebook.
